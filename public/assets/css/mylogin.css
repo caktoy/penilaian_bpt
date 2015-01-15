@@ -1,0 +1,14 @@
+body{
+	background: #eee;
+	background-image: url('../img/bg-login.png');
+	background-position: top left;
+	background-repeat: no-repeat;
+	background-size: 1500px;
+}
+.container{
+	width: 800px;
+	padding-top: 50px;
+}
+.panel{
+	box-shadow: 0px 0px 10px #999999;
+}
